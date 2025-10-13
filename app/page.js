@@ -20,7 +20,7 @@ export default function Home() {
           </div>
           <div className="text-center">
             <span className="text-3xl">📹</span>
-            <p className="text-sm mt-2">Surveillance Setup</p>
+            <p className="text-sm mt-2">Camera & Location Services</p>
           </div>
         </div>
 
