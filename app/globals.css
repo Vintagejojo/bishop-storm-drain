@@ -1,4 +1,15 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css");
+/* 
+:root {
+  --color-bg-start: #0f2027;
+  --color-bg-end: #2c5364;
+} */
+
+/* Your other styles here */
+
 @import "tailwindcss";
+@plugin "daisyui";
+
 
 /* === Color & Font System === */
 :root {
