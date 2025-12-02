@@ -9,7 +9,7 @@ export default function Services() {
           {/* <h2 className="text-3xl sm:text-5xl font-bold mb-4">Our Services</h2> */}
           <Heading variant="blue" as='h2' className="text-3xl sm:text-5xl font-bold mb-4">Our Services</Heading>
           <p className="text-lg sm:text-2xl mb-6 md:mb-14 drop-shadow-[0_3px_6px_rgba(0,0,0,0.8)]">
-            Professional Storm Drain Solutions for Residential & Commercial Properties
+            Professional Drain Solutions for Residential & Commercial Properties
           </p>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 lg:gap-8 xl:gap-10">
@@ -19,9 +19,9 @@ export default function Services() {
               <i className="bi bi-house-door text-4xl"></i>
               <h2 className="card-title">Residential Services</h2>
               <p>
-                Complete storm drain solutions <br className="hidden xl:inline" />
+                Complete drain solutions <br className="hidden xl:inline" />
                 for homeowners including <br className="hidden xl:inline" />
-                cleaning, repair, and <br className="hidden xl:inline" />
+                cleaning and <br className="hidden xl:inline" />
                 maintenance services
               </p>
             </div>
@@ -33,7 +33,7 @@ export default function Services() {
               <i className="bi bi-building text-4xl"></i>
               <h2 className="card-title">Commercial Services</h2>
               <p>
-                Professional storm drain <br className="hidden xl:inline" />
+                Professional drain <br className="hidden xl:inline" />
                 management for businesses, <br className="hidden xl:inline" />
                 parking lots, and <br className="hidden xl:inline" />
                 commercial properties
@@ -47,10 +47,9 @@ export default function Services() {
               <i className="bi bi-exclamation-triangle text-4xl"></i>
               <h2 className="card-title">Emergency Services</h2>
               <p>
-                24/7 emergency response <br className="hidden xl:inline" />
-                for urgent storm drain <br className="hidden xl:inline" />
-                blockages and flooding <br className="hidden xl:inline" />
-                situations
+                24/7 emergency services <br className="hidden xl:inline" />
+                for municipalities <br className="hidden xl:inline" />
+                 & residential customers <br className="hidden xl:inline" />
               </p>
             </div>
           </div>
@@ -90,7 +89,7 @@ export default function Services() {
               <h2 className="card-title">Maintenance Plans</h2>
               <p>
                 Scheduled preventive maintenance <br className="hidden xl:inline" />
-                to keep your storm drains <br className="hidden xl:inline" />
+                to keep your drains <br className="hidden xl:inline" />
                 functioning properly <br className="hidden xl:inline" />
                 year-round
               </p>

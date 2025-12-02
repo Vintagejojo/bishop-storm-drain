@@ -19,7 +19,7 @@ export default function HeroSection() {
 
       <div className="p-8 md:p-16">
         <h1 className="text-5xl font-bold mb-4 border-dotted border-2 border-slate-600 p-4">
-          Bishop&apos;s Storm Drain
+          Bishop&apos;s Drain
         </h1>
         <p className="text-xl mb-6 text-gray-300 border-dotted border-2 border-slate-700 p-2">
           [ Tagline or short mission statement goes here ]
