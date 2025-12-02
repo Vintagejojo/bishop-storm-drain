@@ -20,6 +20,6 @@ module.exports = {
   plugins: [require("daisyui")],
   daisyui: {
     themes: ["dark"], // ← Only dark theme
-    darkTheme: "dark", // ← Force dark theme
+    darkTheme: "dark", // ← Force dark theme TODO: add a light and dark mode config later
   },
 };

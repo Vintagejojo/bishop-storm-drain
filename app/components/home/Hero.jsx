@@ -30,13 +30,13 @@ export default function Hero() {
               as="h1"
               className="text-5xl font-bold text-white"
             >
-              Mississippi's Most Trusted Storm Drain Experts
+              Mississippi's Most Trusted Drain Experts
             </Heading>
           </div>
 
           <div className="mock-component mb-8 bg-black/25 border-white">
             <p className="text-xl text-white font-medium drop-shadow-[0_3px_6px_rgba(0,0,0,0.8)]">
-              Expert storm drain cleaning, repair, and inspection services
+              Expert drain cleaning and video inspection services
             </p>
           </div>
 

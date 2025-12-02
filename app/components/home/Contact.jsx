@@ -81,7 +81,7 @@ export default function Contact() {
             {/* Tagline */}
             <div>
               <p className=" text-md sm:text-lg drop-shadow-[0_3px_6px_rgba(0,0,0,0.8)] text-center">
-                Quality Storm Drain Services, Commercial and Residential
+                Quality Drain Services, Commercial and Residential
               </p>
             </div>
 
@@ -91,10 +91,10 @@ export default function Contact() {
               <div className="flex items-center gap-3 justify-center">
                 <i className="bi bi-envelope text-xl"></i>
                 <a
-                  href="mailto:russel@bishopsdrain.com?subject=Inquiry&body=Hello"
+                  href="mailto:russell@bishopsdrain.com?subject=Inquiry&body=Hello"
                   className="hover:text-primary"
                 >
-                  russel@bishopsdrain.com
+                  russell@bishopsdrain.com
                 </a>
               </div>
 
