@@ -5,18 +5,18 @@ import Footer from "./components/layout/Footer";
 import Navbar from "./components/layout/Navbar";
 
 export const metadata = {
-  title: "Professional Plumbing Services",
+  title: "Professional Drain Cleaning Services",
   description:
-    "Quality plumbing services for residential and commercial properties",
+    "Drain cleaning, sewer line repair, and high-pressure jetting services for residential and commercial properties",
   icons: {
     icon: "/favicon.ico", 
   },
   openGraph: {
-    title: "Professional Plumbing Services",
+    title: "Professional Drain Cleaning Services",
     description:
-      "Quality plumbing services for residential and commercial properties",
+      "Drain cleaning, sewer line repair, and high-pressure jetting services for residential and commercial properties",
     url: "https://bishopsdrain.com/", // 
-    siteName: "Professional Plumbing Services",
+    siteName: "Professional Drain Cleaning Services",
     images: [
       {
         url: "/images/bishop_logo.webp", // place an image in /public/images
